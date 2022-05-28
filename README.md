@@ -11,6 +11,8 @@ to the stack on the servrer:
 implmented new methods to manipulate memory (malloc, free) in multi
 processes environment.
 
+using shared memory by the help of mmap.
+
 fcnti loking used for the stack (to synchronyse shared memory).
 
 stack calls:
