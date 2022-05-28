@@ -38,12 +38,6 @@ char buf[MAXDATASIZE];
 static int count = 0;
 // stack *stack1;
 
-// struct arg_struct
-// {
-//     int arg1;
-//     pnode *head;
-//     int ** capacity;
-// };
 
 
 
