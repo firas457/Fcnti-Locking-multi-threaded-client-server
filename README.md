@@ -1,4 +1,4 @@
-# operating_systems_5
+# operating systems
 
 
 multi threaded client-server:
